@@ -60,7 +60,8 @@ http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="teleclub", Telemundo 
 http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="teleclub", TLNovelas http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="teleclub", TLNovelas 
+http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="teleclub", La Rosa de Guadalupe 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
