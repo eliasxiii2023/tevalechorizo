@@ -297,3 +297,93 @@ http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udvy1ea.jpg" group-title="teleclub", Fox Sports 3 Sur 
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 
 
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="" group-title="24/7", Avatar la leyenda de Aang
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/38448.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7", Bob Esponja
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37847.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Jimmy Neutron
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37887.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Los Padrinos Magicos
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37832.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Phineas y Ferb
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37851.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Zoey 101
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37780.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Drake y Josh
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37768.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Manual de supervivencia escolar de Ned
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37779.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 iCarly
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37769.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Victorious
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37778.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Malcolm in the Middle
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37750.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Dos Hombres y Medio
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37791.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Dr. House
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/54925.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Harry Potter
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37755.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 La casa de los dibujos
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37825.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Rick y Morty
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37850.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Los Simpsons S01 a S20
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37767.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Los Simpsons S20 a S30
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37758.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos 2019
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/55349.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos 2020
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/55628.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos 2022
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/225786.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos 2023
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/225477.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Accion
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144548.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Animacion
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144549.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Aventura
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144550.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos CienciaFiccion
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144551.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Comedia
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144552.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Disney
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144553.m3u8
+
+#EXTINF:-1 group-title="24/7", 24/7 Estrenos Familiar
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144554.m3u8
