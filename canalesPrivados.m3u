@@ -2,11 +2,11 @@
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV-Abierta",Azteca Uno 
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
 #EXTINF:-1 tvg-id="A+" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="TV-Abierta",A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV-Abierta",Azteca Uno 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV-Abierta",Canal 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
