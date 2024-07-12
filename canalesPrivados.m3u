@@ -29,8 +29,8 @@ http://pe.shortgod.com/wow/play.php?id=55
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="TV-Abierta", TlNovelas
 http://pe.shortgod.com/wow/play.php?id=56
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Canal once
-https://i.imgur.com/K0351vF.png
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV-Abierta", Canal once
+http://pe.shortgod.com/wow/play.php?id=132
 
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png" group-title="TV-Abierta", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
