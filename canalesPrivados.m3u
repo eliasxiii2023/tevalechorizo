@@ -23,13 +23,13 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://45.228.234.167:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png"group-title="TV-Abierta", Galavision
-http://pe.shortgod.com/wow/play.php?id=55
+#http://pe.shortgod.com/wow/play.php?id=55
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="TV-Abierta", TlNovelas
-http://pe.shortgod.com/wow/play.php?id=56
+#http://pe.shortgod.com/wow/play.php?id=56
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV-Abierta", Canal once
-http://pe.shortgod.com/wow/play.php?id=132
+#http://pe.shortgod.com/wow/play.php?id=132
 
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png" group-title="TV-Abierta", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -47,56 +47,56 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="TV-Abierta", Cine latino
-http://pe.shortgod.com/wow/play.php?id=84
+#http://pe.shortgod.com/wow/play.php?id=84
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="TV-Abierta", DPelicula plus
-http://pe.shortgod.com/wow/play.php?id=85
+#http://pe.shortgod.com/wow/play.php?id=85
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
-http://pe.shortgod.com/wow/play.php?id=353
+#http://pe.shortgod.com/wow/play.php?id=353
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="TV-Abierta", Nickelodeon
-http://pe.shortgod.com/wow/play.php?id=149
+#http://pe.shortgod.com/wow/play.php?id=149
 #http://pe.shortgod.com/wow/play.php?id=110
 
 #EXTINF:-1 group-title="TV-Abierta",Chespirito 24/7
-http://pe.shortgod.com/wow/play.php?id=355
+#http://pe.shortgod.com/wow/play.php?id=355
 
 #EXTINF:-1 group-title="TV-Abierta",La Familia Peluche 24/7
-http://pe.shortgod.com/wow/play.php?id=108
+#http://pe.shortgod.com/wow/play.php?id=108
 
 #EXTINF:-1 group-title="TV-Abierta",Chavo 24/7
-http://pe.shortgod.com/wow/play.php?id=150
+#http://pe.shortgod.com/wow/play.php?id=150
 
 #EXTINF:-1 group-title="TV-Abierta",El Chapulin Colorado 24/7
-http://pe.shortgod.com/wow/play.php?id=113
+#http://pe.shortgod.com/wow/play.php?id=113
 
 #EXTINF:-1 group-title="TV-Abierta",Dinosaurios 24/7
-http://pe.shortgod.com/wow/play.php?id=356
+#http://pe.shortgod.com/wow/play.php?id=356
 
 #EXTINF:-1 group-title="TV-Abierta",El Principe del rap 24/7
-http://pe.shortgod.com/wow/play.php?id=358
+#http://pe.shortgod.com/wow/play.php?id=358
 
 #EXTINF:-1 group-title="TV-Abierta",Alf 24/7
-http://pe.shortgod.com/wow/play.php?id=128
+#http://pe.shortgod.com/wow/play.php?id=128
 
 #EXTINF:-1 group-title="TV-Abierta",Mi bella Genio 24/7
-http://pe.shortgod.com/wow/play.php?id=93
+#http://pe.shortgod.com/wow/play.php?id=93
 
 #EXTINF:-1 group-title="TV-Abierta",Futurama 24/7
-http://pe.shortgod.com/wow/play.php?id=166
+#http://pe.shortgod.com/wow/play.php?id=166
 
 #EXTINF:-1 group-title="TV-Abierta",Dragon Ball Super 24/7
-http://pe.shortgod.com/wow/play.php?id=191
+#http://pe.shortgod.com/wow/play.php?id=191
 
 #EXTINF:-1 group-title="TV-Abierta",Terror 24/7
-http://pe.shortgod.com/wow/play.php?id=196
+#http://pe.shortgod.com/wow/play.php?id=196
 
 #EXTINF:-1 group-title="TV-Abierta",Peliculas de Accion
-http://pe.shortgod.com/wow/play.php?id=38
+#http://pe.shortgod.com/wow/play.php?id=38
 
 #EXTINF:-1 group-title="TV-Abierta",Alerta Aeropuerto 24/7
-http://pe.shortgod.com/wow/play.php?id=347
+#http://pe.shortgod.com/wow/play.php?id=347
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
