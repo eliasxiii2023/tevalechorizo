@@ -52,17 +52,20 @@ http://168.181.122.234:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="TV-Abierta", DPelicula plus
 http://190.60.40.37:12500/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AViX_Logo.svg&psig=AOvVaw0i8Fm4RSR_JKM9xs_A9hci&ust=1722188694916000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi0iv3ix4cDFQAAAAAdAAAAABAE" group-title="TV-Abierta", Vix cine de oro
+https://jmp2.uk/SamsungTVPlus/USBD2700005KL.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
-http://179.189.222.226:16123/play/ch03
+http://181.78.23.26:45000/play/a01b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="TV-Abierta", Nickelodeon
-https://jmp2.uk/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="TV-Abierta", Nicktoons
-https://jmp2.uk/PlutoTV/654ca7f92c1d3300086b608c-alt.m3u8
+http://181.78.74.226:45000/play/a005
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="TV-Abierta", Nick clasico
 https://jmp2.uk/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="TV-Abierta", [Adult Swim]
+http://190.60.40.37:12500/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="TV-Abierta", HBO 
 http://168.181.122.234:8000/play/a02o/index.m3u8
@@ -99,9 +102,6 @@ http://190.60.40.37:12500/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="TV-Abierta", Universal Premiere 
 http://181.78.105.146:8800/play/a067
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/nasa-logo-lkvdSGg" group-title="TV-Abierta", NASA
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
