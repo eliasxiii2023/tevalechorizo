@@ -58,9 +58,6 @@ http://168.181.122.234:8000/play/a02a/index.m3u8
 #http://190.60.40.37:12500/play/a01l/index.m3u8
 http://nxt.plus:8080/jesus01/jesus01/43492
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="TV-Abierta", DPelicula+
-http://nxt.plus:8080/jesus01/jesus01/43494
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
 http://181.78.23.26:45000/play/a01b
 
@@ -78,22 +75,22 @@ http://190.60.40.37:12500/play/a00w/index.m3u8
 http://168.181.122.234:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="TV-Abierta", HBO 2 
-http://181.78.74.226:45000/play/a00z
+http://181.78.74.226:45000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="TV-Abierta", HBO + 
-http://181.78.74.226:45000/play/a010
+http://181.78.74.226:45000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="TV-Abierta", HBO Pop 
 #http://190.95.220.212:8000/play/a04h/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="TV-Abierta", HBO Xtreme 
-http://181.78.105.146:6060/play/a00l
+http://181.78.105.146:6060/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="TV-Abierta", HBO Family 
 http://170.82.37.21:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden 
-http://179.189.222.226:16123/play/ch46
+http://179.189.222.226:16123/play/ch46/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Edge 
 http://190.60.40.37:12500/play/a01d/index.m3u8
@@ -108,7 +105,7 @@ http://190.61.55.186:1010/play/a00s/index.m3u8
 http://190.60.40.37:12500/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="TV-Abierta", Universal Premiere 
-http://181.78.105.146:8800/play/a067
+http://181.78.105.146:8800/play/a067/index.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
