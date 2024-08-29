@@ -54,11 +54,12 @@ http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="TV-Abierta", Cine latino
 http://168.181.122.234:8000/play/a02a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="TV-Abierta", DPelicula plus
-http://190.60.40.37:12500/play/a01l/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="TV-Abierta", DPelicula
+#http://190.60.40.37:12500/play/a01l/index.m3u8
+http://nxt.plus:8080/jesus01/jesus01/43492
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AViX_Logo.svg&psig=AOvVaw0i8Fm4RSR_JKM9xs_A9hci&ust=1722188694916000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi0iv3ix4cDFQAAAAAdAAAAABAE" group-title="TV-Abierta", Vix cine de oro
-#https://jmp2.uk/SamsungTVPlus/USBD2700005KL.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="TV-Abierta", DPelicula+
+http://nxt.plus:8080/jesus01/jesus01/43494
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
 http://181.78.23.26:45000/play/a01b
