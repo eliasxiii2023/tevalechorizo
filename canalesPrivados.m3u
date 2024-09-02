@@ -135,7 +135,8 @@ http://191.52.214.5:8000/play/a06o/index.m3u8
 #http://181.78.74.226:45000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="TV-Abierta", HBO Pop 
-#http://190.95.220.212:8000/play/a04h/index.m3u8 
+#http://190.95.220.212:8000/play/a04h/index.m3u8
+http://200.37.186.109:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="TV-Abierta", HBO Xtreme 
 http://181.78.105.146:6060/play/a00l/index.m3u8
