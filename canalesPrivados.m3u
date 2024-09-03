@@ -14,10 +14,10 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV-Abierta",Canal 5
 #http://45.228.234.167:8000/play/a0ll/index.m3u8
-#http://181.78.105.146:2000/play/a038/index.m3u8
 #https://bgtv.xyz/play/2-810.php?idch=14
 #https://bgtv.xyz/play/2-810.php?idch=941
 #http://bgtv.xyz/play/play-810.php?ul=941&token=asfasdf
+#http://181.78.105.146:2000/play/a038/index.m3u8
 http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/279661.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV-Abierta",Azteca 7
@@ -29,7 +29,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #http://45.228.234.167:8000/play/a0le/index.m3u8
 #https://bgtv.xyz/play/2-810.php?idch=636
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://190.242.41.219:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png"group-title="TV-Abierta", Galavision
 
@@ -116,6 +117,9 @@ http://192.141.99.3:8000/play/a022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
 http://190.90.18.161:15082/play/a067/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png" group-title="TV-Abierta", Univiersal TV
+http://190.242.41.219:8000/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="TV-Abierta", TNT 
 http://192.141.99.3:8000/play/a05p
 
@@ -156,9 +160,6 @@ http://190.60.40.37:12500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Premier 
 http://168.181.122.234:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="TV-Abierta", Studio Channel 
-http://190.242.41.219:8000/play/a023/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Studio Universal 
 http://190.60.40.37:12500/play/a01a/index.m3u8
 
@@ -187,11 +188,11 @@ http://181.78.105.146:2000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/2560px-Logo_The_Simpsons.svg.png"group-title="TV-Abierta", Los simpson
 #http://bgtv.xyz/play/play-810.php?ul=357&token=asfasdf
-http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265628.m3u8
+#http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265628.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/MitM_credits_logo.jpg"group-title="TV-Abierta", Malcolm el del medio
 #http://bgtv.xyz/play/play-810.php?ul=911&token=asfasdf
-http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265639.m3u8
+#http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265639.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
 http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
