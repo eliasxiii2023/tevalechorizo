@@ -96,7 +96,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 http://192.141.99.3:8000/play/a05o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="TV-Abierta", Cartoon Network
-http://191.52.214.5:8000/play/a031/index.m3u8
+#http://191.52.214.5:8000/play/a031/index.m3u8
+http://181.78.67.178:1010/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="TV-Abierta", [Adult Swim]
 http://190.60.40.37:12500/play/a00w/index.m3u8
