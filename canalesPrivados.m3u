@@ -204,7 +204,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/2560px-Logo_The_Simpsons.svg.png"group-title="TV-Abierta", Los simpson
 #http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265628.m3u8
-http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oQNHixa1yvP4-FCnxUH4-6yBTrpYMxo6FgYDtkaOJtfj
+#http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oQNHixa1yvP4-FCnxUH4-6yBTrpYMxo6FgYDtkaOJtfj
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/MitM_credits_logo.jpg"group-title="TV-Abierta", Malcolm el del medio
 #http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/265639.m3u8
@@ -213,7 +213,7 @@ http://offshore.lat:8080/play/fZA9IQCtqv2WKcCki2n5oQNHixa1yvP4-FCnxUH4-6yBTrpYMx
 #http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157532.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
-#http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
+http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
