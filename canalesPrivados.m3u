@@ -212,8 +212,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTM3U 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="teleclub", Azteca Uno 
 http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8 
 
