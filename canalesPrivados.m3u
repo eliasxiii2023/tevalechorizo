@@ -159,10 +159,6 @@ http://190.60.40.37:12500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Premier 
 http://168.181.122.234:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Universal Channel 
-#http://190.60.40.37:12500/play/a011/index.m3u8
-http://200.59.188.3:8000/play/a01h
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Studio Universal 
 http://190.60.40.37:12500/play/a01a/index.m3u8
 
