@@ -167,12 +167,18 @@ http://190.60.40.37:12500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Premier 
 http://168.181.122.234:8000/play/a01t/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Universal Channel 
+http://190.60.40.37:12500/play/a011/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Studio Universal 
 http://190.60.40.37:12500/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="TV-Abierta", Universal Premiere 
 #http://181.78.105.146:8800/play/a067/index.m3u8
 http://192.141.99.3:8000/play/a065
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="TV-Abierta", Universal Cinema
+http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="TV-Abierta", ESPN 1 MX 
 http://192.141.99.3:8000/play/a05h
@@ -196,6 +202,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u
 #http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254191.ts
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Lilo y stich
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Anime
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", ICarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Series Latinas
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
+
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", KDramas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Zoey101.png" group-title="TV-Abierta", ZOEY 101
 #http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254183.ts
 
@@ -214,7 +235,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
 http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
-
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTM3U 
