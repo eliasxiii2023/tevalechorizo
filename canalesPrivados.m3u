@@ -145,10 +145,10 @@ http://190.60.37.154:45000/play/a055/index.m3u8
 #http://179.189.222.226:16123/play/ch46/index.m3u8
 http://190.90.18.161:15082/play/a055/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Plus 
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="TV-Abierta", Golden Plus 
 http://190.60.40.37:12500/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden Premier 
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="TV-Abierta", Golden Premier 
 http://168.181.122.234:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV-Abierta", Studio Universal 
