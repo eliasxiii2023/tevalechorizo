@@ -14,7 +14,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV-Abierta",Canal 5
 #http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/279661.m3u8
 http://181.78.105.146:2000/play/a038/index.m3u8
-#http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/32.ts
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV-Abierta",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -51,9 +50,6 @@ http://168.181.122.234:8000/play/a02a/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="TV-Abierta", DPelicula
 #http://190.60.40.37:12500/play/a01l/index.m3u8
 http://nxt.plus:8080/jesus01/jesus01/43492
-
-#EXTINF:-1  tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/De-Pelicula-Plus-Logo.png" group-title="TV-Abierta", De pelicula+
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/140040.ts
 
 #EXTINF:-1  tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/De-Pelicula-Plus-Logo.png" group-title="TV-Abierta", PLUTO TV Clasicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -114,7 +110,7 @@ http://192.141.99.3:8000/play/a022
 http://190.90.18.161:15082/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png" group-title="TV-Abierta", Univiersal TV
-http://190.242.41.219:8000/play/a023/index.m3u8
+#http://201.219.29.246:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="TV-Abierta", TNT 
 http://192.141.99.3:8000/play/a05p
@@ -129,24 +125,18 @@ http://190.90.18.161:15082/play/a054/index.m3u8
 http://168.181.122.234:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="TV-Abierta", HBO 2 
-#http://181.78.74.226:45000/play/a00z/index.m3u8
-#http://191.52.214.5:8000/play/a06o/index.m3u8
 http://192.141.99.3:8000/play/a05l
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="TV-Abierta", HBO + 
-#http://181.78.74.226:45000/play/a010/index.m3u8
 http://192.141.99.3:8000/play/a038
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="TV-Abierta", HBO Pop 
-#http://190.95.220.212:8000/play/a04h/index.m3u8
 http://200.37.186.109:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="TV-Abierta", HBO Xtreme 
 http://181.78.105.146:6060/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="TV-Abierta", HBO Family 
-#http://170.82.37.21:8000/play/a02m/index.m3u8
-#http://191.52.214.5:8000/play/a06q/index.m3u8
 http://190.60.37.154:45000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden 
@@ -179,33 +169,24 @@ http://192.141.99.3:8000/play/a05s
 http://190.90.18.161:15082/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png"group-title="TV-Abierta", Claro Sports
-#https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 http://181.78.105.146:2000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Lilo y stich
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Anime
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/13fd81e99a95113621107412fe4cf93e965897aa82205cd2390e83430eaab132.png" group-title="TV-Abierta", Anime
 https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/logo-SpongeBob-SquarePants-640x339.png"group-title="TV-Abierta", Bob Esponja
-#http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/169.ts
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/ESP-Los-Padrinos-Magicos.png/revision/latest?cb=20171125035328&path-prefix=es"group-title="TV-Abierta", Los padrinos magicos
-#http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254191.ts
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", ICarly
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/samycat-es/images/f/fd/ICarly-Logo.png/revision/latest?cb=20130503153514&path-prefix=es" group-title="TV-Abierta", ICarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Zoey101.png" group-title="TV-Abierta", ZOEY 101
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254183.ts
-
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Series Latinas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV-Abierta", Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", KDramas
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8366/8366005.png" group-title="TV-Abierta", KDramas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
