@@ -103,6 +103,9 @@ http://192.141.99.3:8000/play/a05m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="TV-Abierta", Discovery Channel 
 http://190.60.32.178:8178/play/a08o/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm9clKWfFuQsgTJsjHssu-kvsBIgMVmSBEw&s" group-title="TV-Abierta", Discovery World 
+http://190.14.249.39:8000/play/a01o
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="TV-Abierta", National Geographic 
 http://192.141.99.3:8000/play/a05i
 
