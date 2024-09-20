@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="A+" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="TV-Abierta",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 tvg-id="A+" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072020/tv-azteca-deportes-01.png?paPPvZJC6V9JSiQx6mwkvdB98dVcc7wX&itok=UxwWY10N" group-title="TV-Abierta",Azteca Deportes
+http://190.14.228.107:8000/play/a02y
+
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV-Abierta",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -12,8 +15,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="TV-Abierta",Canal 5
-#http://181.78.105.146:2000/play/a038/index.m3u8
-http://bgtv.xyz/play/play-911.php?ul=941&token=asdasfasdda
+http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV-Abierta",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -63,7 +65,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://191.52.214.5:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="TV-Abierta", Nick Jr 
-http://192.141.99.3:8000/play/a026
+http://45.189.148.254:9999/play/a00o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="TV-Abierta", Disney Jr 
 http://190.242.41.219:8000/play/a048/index.m3u8
@@ -111,7 +113,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d
 http://192.141.99.3:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
-http://190.242.41.219:8000/play/a026/index.m3u8
+http://45.189.148.254:9999/play/a00h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png" group-title="TV-Abierta", Univiersal TV
 #http://201.219.29.246:8000/play/a019/index.m3u8
@@ -144,7 +146,7 @@ http://181.78.105.146:6060/play/a00l/index.m3u8
 http://190.60.37.154:45000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden 
-http://190.242.41.219:8000/play/a03b/index.m3u8
+http://181.78.21.46:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="TV-Abierta", Golden Plus 
 http://190.60.40.37:12500/play/a01d/index.m3u8
@@ -186,9 +188,6 @@ http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png"group-title="TV-Abierta", Claro Sports
 #http://181.78.105.146:2000/play/a053/index.m3u8
 http://192.141.99.3:8000/play/a02a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png"group-title="TV-Abierta", Movistar Deportes
-http://201.219.29.246:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/13fd81e99a95113621107412fe4cf93e965897aa82205cd2390e83430eaab132.png" group-title="TV-Abierta", Anime Onegai
 https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
