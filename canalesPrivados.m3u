@@ -55,8 +55,7 @@ http://168.181.122.234:8000/play/a02a/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="TV-Abierta", DPelicula
-#http://190.60.40.37:12500/play/a01l/index.m3u8
-http://nxt.plus:8080/jesus01/jesus01/43492
+http://190.60.40.37:12500/play/a01l/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/118/7/png-transparent-cine-cinema-classic-hd-logo.png" group-title="TV-Abierta", PLUTO TV Clasicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -68,7 +67,7 @@ http://191.52.214.5:8000/play/a02h/index.m3u8
 http://45.189.148.254:9999/play/a00o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="TV-Abierta", Disney Jr 
-http://190.242.41.219:8000/play/a048/index.m3u8
+http://181.78.4.186:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQrgEHTg.jpg" group-title="TV-Abierta", Cartoonito
 http://45.176.193.222:2405/play/a06p
@@ -111,9 +110,6 @@ http://192.141.99.3:8000/play/a05i
 
 #EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="TV-Abierta", Sony TV
-http://192.141.99.3:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
 http://45.189.148.254:9999/play/a00h
