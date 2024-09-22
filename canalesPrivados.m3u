@@ -220,6 +220,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/samycat-es/images/f/fd/ICarly-Logo.png/revision/latest?cb=20130503153514&path-prefix=es" group-title="TV-Abierta", Pluto TV ICarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtolxiP.jpeg"group-title="TV-Abierta", Malcolm
+http://bgtv.xyz/play/play-941.php?ul=911&token=asdasdasdasdasd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV-Abierta", Pluto TV Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
