@@ -88,7 +88,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
 #http://181.78.23.26:45000/play/a01b
-http://192.141.99.3:8000/play/a05o
+#http://192.141.99.3:8000/play/a05o
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3025
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="TV-Abierta", Cartoon Network
 #http://181.78.67.178:1010/play/a025/index.m3u8
@@ -102,7 +103,8 @@ http://181.78.8.90:16123/play/ch75
 http://192.141.99.3:8000/play/a05m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="TV-Abierta", Discovery Channel 
-http://190.60.32.178:8178/play/a08o/index.m3u8
+#http://190.60.32.178:8178/play/a08o/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281050
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm9clKWfFuQsgTJsjHssu-kvsBIgMVmSBEw&s" group-title="TV-Abierta", Discovery World 
 http://190.14.249.39:8000/play/a01o
@@ -110,7 +112,7 @@ http://190.14.249.39:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="TV-Abierta", National Geographic 
 http://192.141.99.3:8000/play/a05i
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Naturaleza
+#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
@@ -130,10 +132,12 @@ http://192.141.99.3:8000/play/a021
 http://200.37.186.109:8000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="TV-Abierta", FX
-http://200.37.186.109:8000/play/a05m/index.m3u8
+#http://200.37.186.109:8000/play/a05m/index.m3u8
+http://38.180.133.31:8000/play/a0ty/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg" group-title="TV-Abierta", Paramount
-http://200.37.186.109:8000/play/a03r/index.m3u8
+#http://200.37.186.109:8000/play/a03r/index.m3u8
+http://38.180.133.31:8000/play/a0qq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="TV-Abierta", Sony
 http://190.60.32.178:8178/play/a00p/index.m3u8
@@ -188,13 +192,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg" group-title="TV-Abierta", ESPN 1 MX 
-http://192.141.99.3:8000/play/a05h
+#http://192.141.99.3:8000/play/a05h
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="TV-Abierta", ESPN 2 MX 
-http://192.141.99.3:8000/play/a05s
+#http://192.141.99.3:8000/play/a05s
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3031
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="TV-Abierta", ESPN 3 MX 
-http://190.60.32.178:8178/play/a015/index.m3u8
+#http://190.60.32.178:8178/play/a015/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png"group-title="TV-Abierta", Claro Sports
 #http://181.78.105.146:2000/play/a053/index.m3u8
@@ -221,9 +228,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/samycat-es/images/f/fd/ICarly-Logo.png/revision/latest?cb=20130503153514&path-prefix=es" group-title="TV-Abierta", Pluto TV ICarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VtolxiP.jpeg"group-title="TV-Abierta", Malcolm
-http://bgtv.xyz/play/play-941.php?ul=911&token=asdasdasdasdasd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="TV-Abierta", Pluto TV Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=503c1595-6730-11ef-9d5b-3616a79efaf6
 
@@ -232,14 +236,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
 http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 2 
-http://pro.boxdigital.org:8080/CeciliaRios2/98HVXEHC/268025
-
-#EXTINF:-1 tvg-logo=""group-title="TV-Abierta", Los simpson
-http://pro.boxdigital.org:8080/CeciliaRios2/98HVXEHC/286164
-
-#EXTINF:-1 tvg-logo=""group-title="TV-Abierta", Los simpson 2
-http://pro.boxdigital.org:8080/CeciliaRios2/98HVXEHC/287758
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
