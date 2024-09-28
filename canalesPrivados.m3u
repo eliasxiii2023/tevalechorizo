@@ -160,7 +160,7 @@ http://181.78.105.146:6060/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="TV-Abierta", HBO Family 
 http://190.60.37.154:45000/play/a055/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta", Golden 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV-Abierta" tvg-id=”golden”, Golden 
 http://181.78.21.46:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="TV-Abierta", Golden Plus 
