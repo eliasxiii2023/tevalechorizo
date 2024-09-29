@@ -66,7 +66,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://191.52.214.5:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="TV-Abierta", Nick Jr 
-http://45.189.148.254:9999/play/a00o
+http://38.180.133.31:8000/play/a0n1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="TV-Abierta", Disney Jr 
 http://181.78.4.186:8000/play/a0ei/index.m3u8
@@ -116,7 +116,7 @@ http://192.141.99.3:8000/play/a05i
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
-http://45.189.148.254:9999/play/a00h
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285147
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/2560px-Universal_TV_logo.svg.png" group-title="TV-Abierta", Univiersal TV
 #http://201.219.29.246:8000/play/a019/index.m3u8
@@ -129,7 +129,7 @@ http://192.141.99.3:8000/play/a05p
 http://192.141.99.3:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TV-Abierta", Cinecanal
-http://200.37.186.109:8000/play/a03l/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/49452
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="TV-Abierta", FX
 #http://200.37.186.109:8000/play/a05m/index.m3u8
@@ -152,7 +152,7 @@ http://192.141.99.3:8000/play/a05l
 http://192.141.99.3:8000/play/a038
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="TV-Abierta", HBO Pop 
-http://200.37.186.109:8000/play/a02t/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3069
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="TV-Abierta", HBO Xtreme 
 http://181.78.105.146:6060/play/a00l/index.m3u8
@@ -196,15 +196,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lWxsCT.jpg" group-title="TV-Abierta", ESPN 2 MX 
-#http://192.141.99.3:8000/play/a05s
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3031
+http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="TV-Abierta", ESPN 3 MX 
-#http://190.60.32.178:8178/play/a015/index.m3u8
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png"group-title="TV-Abierta", Claro Sports
-#http://181.78.105.146:2000/play/a053/index.m3u8
 http://192.141.99.3:8000/play/a02a
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/13fd81e99a95113621107412fe4cf93e965897aa82205cd2390e83430eaab132.png" group-title="TV-Abierta", Anime Onegai
