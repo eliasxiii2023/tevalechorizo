@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv>
+
+
+	<channel id="Azteca-7.mx">
+		<display-name>Azteca 7</display-name>
+		<display-name>El siete</display-name>
+		<display-name>7</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/12421/s96827_ll_h15_ad.png" />
+	</channel>
+
+	<programme start="20241003190000 +0000" stop="20241003200000 +0000" channel="Azteca-7.mx">
+		<title lang="en">Catfish: The TV Show</title>
+		<sub-title lang="en">Truth &amp; Ray&apos;Quan</sub-title>
+		<desc lang="en">L.A. fashion designer Truth is hot for his online crush Ray&apos;Quan despite the fact he&apos;s in a relationship in real life.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16330513_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01616968&amp;tmsId=EP016169680211</url>
+		<episode-num system="common">S07E23</episode-num>
+		<episode-num system="dd_progid">EP01616968.0211</episode-num>
+		<episode-num system="xmltv_ns">6.22.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+
+</tv>
