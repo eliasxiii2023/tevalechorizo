@@ -89,7 +89,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
 #http://181.78.23.26:45000/play/a01b
 #http://192.141.99.3:8000/play/a05o
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3025
+http://45.175.139.194:8000/play/19
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="TV-Abierta", Cartoon Network
 #http://181.78.67.178:1010/play/a025/index.m3u8
@@ -140,7 +140,7 @@ http://38.180.133.31:8000/play/a0ty/index.m3u8
 http://38.180.133.31:8000/play/a0qq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="TV-Abierta", Sony
-http://190.60.32.178:8178/play/a00p/index.m3u8
+http://45.175.139.194:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="TV-Abierta", HBO 
 http://168.181.122.234:8000/play/a02o/index.m3u8
