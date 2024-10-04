@@ -15,44 +15,13 @@
 	<programme start="20241003210000 +0000" stop="20241003220000 +0000" channel="I85.46607.schedulesdirect.org">
 		<title lang="en">Ventaneando con Pati Chapoy</title>
 		<desc lang="en">Una cobertura sobre los sucesos de la farándula más importantes y de sus protagonistas.</desc>
-		<credits>
-			<producer>Pati Chapoy</producer>
-			<producer>Daniel Bisogno</producer>
-			<presenter>Pati Chapoy</presenter>
-			<presenter>Daniel Bisogno</presenter>
-			<presenter>Pedro Sola</presenter>
-			<presenter>Linet Puente</presenter>
-			<presenter>Mónica Castañeda</presenter>
-			<presenter>Rosario Murrieta</presenter>
-			<presenter>Ricardo Manjarrez</presenter>
-			<presenter>Jimena Pérez</presenter>
-			<presenter>Atala Sarmiento</presenter>
-			<presenter>Ricardo Casares</presenter>
-		</credits>
 		<category lang="en">News</category>
-		<length units="seconds">1800</length>
-		<episode-num system="dd_progid">SH00196372.0000</episode-num>
-		<previously-shown start="20060122000000" />
-		<subtitles type="teletext" />
-		<rating system="Dirección General de Radio, Televisión y Cinematografía">
-			<value>A</value>
-		</rating>
 	</programme>
 	<programme start="20241003220000 +0000" stop="20241003230000 +0000" channel="I85.46607.schedulesdirect.org">
 		<title lang="en">Hechos Meridiano</title>
 		<desc lang="en">Las noticias en vivo con reportajes de corresponsales remotos.</desc>
-		<credits>
-			<presenter>Alejandro Villalvazo</presenter>
-			<presenter>Christian Lara</presenter>
-			<presenter>Gloria Perez Pérez Jácome</presenter>
-		</credits>
 		<category lang="en">News</category>
 		<length units="seconds">3600</length>
-		<episode-num system="dd_progid">SH00897257.0000</episode-num>
-		<previously-shown start="20070115000000" />
-		<rating system="Dirección General de Radio, Televisión y Cinematografía">
-			<value>A</value>
-		</rating>
 	</programme>
 
 </tv>
