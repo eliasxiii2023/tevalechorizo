@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv>
+<tv source-info-name="zap2it" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
 
 	<channel id="I85.46607.schedulesdirect.org">
 		<display-name>AZDELAY</display-name>
