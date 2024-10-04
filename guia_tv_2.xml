@@ -5,13 +5,8 @@
 </channel>
 
 <programme start="20241004000000 -0500" stop="20241004010000 -0500" channel="manavision.Ec">
-<title lang="es">Promo TV</title>
-<desc lang="es"> Los Simpson</desc>
-<category lang="es">venta</category>
-<star-rating system="ES">
-<value>★★★★★</value>
-</star-rating>
-<icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+<title lang="es">Programa pagado</title>
+<desc lang="es"></desc>
+<category lang="es">ventas</category>
 </programme>
-
 </tv>
