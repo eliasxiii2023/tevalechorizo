@@ -1,27 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-name="iptv_provider" generator-info-name="EPGGenerator" generator-info-url="mailto:support@iptvprovider.com">
 
-<tv source-info-name="zap2it" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+    <!-- Definición del Canal -->
+    <channel id="AztecaUno.mx">
+        <display-name>AztecaUno</display-name>
+        <display-name>1 AztecaUno</display-name>
+        <display-name>1</display-name>
+        <icon src="https://example.com/logos/aztecauno.png" width="360" height="270" />
+    </channel>
 
-	<channel id="I85.46607.schedulesdirect.org">
-		<display-name>AZDELAY</display-name>
-		<display-name>85 AZDELAY</display-name>
-		<display-name>85</display-name>
-		<display-name>Azteca Uno</display-name>
-		<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" width="360" height="270" />
-	</channel>
+    <!-- Programa Anterior 1 -->
+    <programme start="20241003160000 +0000" stop="20241003170000 +0000" channel="AztecaUno.mx">
+        <title lang="es">Ventaneando</title>
+        <desc lang="es">Un programa de espectáculos con Pati Chapoy y su equipo, que cubre lo más relevante de la farándula.</desc>
+        <credits>
+            <presenter>Pati Chapoy</presenter>
+            <presenter>Daniel Bisogno</presenter>
+            <presenter>Pedro Sola</presenter>
+        </credits>
+        <category lang="es">Entretenimiento</category>
+        <length units="minutes">60</length>
+        <episode-num system="dd_progid">SH00123456.001</episode-num>
+        <previously-shown start="20230915000000" />
+        <rating system="Dirección General de Radio, Televisión y Cinematografía">
+            <value>A</value>
+        </rating>
+    </programme>
 
+    <!-- Programa Anterior 2 -->
+    <programme start="20241003170000 +0000" stop="20241003180000 +0000" channel="AztecaUno.mx">
+        <title lang="es">Hechos</title>
+        <desc lang="es">Noticias con los titulares más importantes de México y el mundo.</desc>
+        <credits>
+            <presenter>Javier Alatorre</presenter>
+            <presenter>Linet Puente</presenter>
+        </credits>
+        <category lang="es">Noticias</category>
+        <length units="minutes">60</length>
+        <episode-num system="dd_progid">SH00123456.002</episode-num>
+        <previously-shown start="20230915000000" />
+        <rating system="Dirección General de Radio, Televisión y Cinematografía">
+            <value>A</value>
+        </rating>
+    </programme>
 
-	<programme start="20241003210000 +0000" stop="20241003220000 +0000" channel="I85.46607.schedulesdirect.org">
-		<title lang="en">Ventaneando con Pati Chapoy</title>
-		<desc lang="en">Una cobertura sobre los sucesos de la farándula más importantes y de sus protagonistas.</desc>
-		<category lang="en">News</category>
-	</programme>
-	<programme start="20241003220000 +0000" stop="20241003230000 +0000" channel="I85.46607.schedulesdirect.org">
-		<title lang="en">Hechos Meridiano</title>
-		<desc lang="en">Las noticias en vivo con reportajes de corresponsales remotos.</desc>
-		<category lang="en">News</category>
-		<length units="seconds">3600</length>
-	</programme>
+    <!-- Programa Actual -->
+    <programme start="20241003180000 +0000" stop="20241003200000 +0000" channel="AztecaUno.mx">
+        <title lang="es">La Rosa de Guadalupe</title>
+        <desc lang="es">Historias con un toque de fe y esperanza que muestran problemas de la vida diaria y cómo superarlos.</desc>
+        <credits>
+            <director>Carlos Mercado Orduña</director>
+            <writer>Elena Álvarez</writer>
+        </credits>
+        <category lang="es">Drama</category>
+        <length units="minutes">120</length>
+        <episode-num system="dd_progid">SH00123456.003</episode-num>
+        <rating system="Dirección General de Radio, Televisión y Cinematografía">
+            <value>B</value>
+        </rating>
+    </programme>
+
+    <!-- Programa Futuro -->
+    <programme start="20241003200000 +0000" stop="20241003210000 +0000" channel="AztecaUno.mx">
+        <title lang="es">Lo Que Callamos Las Mujeres</title>
+        <desc lang="es">Historias que retratan los desafíos que enfrentan las mujeres en su vida cotidiana.</desc>
+        <category lang="es">Drama</category>
+        <length units="minutes">60</length>
+        <episode-num system="dd_progid">SH00123456.004</episode-num>
+        <rating system="Dirección General de Radio, Televisión y Cinematografía">
+            <value>B</value>
+        </rating>
+    </programme>
 
 </tv>
