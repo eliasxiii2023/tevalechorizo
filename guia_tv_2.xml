@@ -12,4 +12,10 @@
 <desc lang="en">Pruebas</desc>
 <category lang="en">ventas</category>
 </programme>
+  
+<programme start="20241004010000 +0600" stop="20241004020000 +0600" channel="manavision.Ec">
+<title lang="en">Programa pagado</title>
+<desc lang="en">Pruebas</desc>
+<category lang="en">ventas</category>
+</programme>
 </tv>
