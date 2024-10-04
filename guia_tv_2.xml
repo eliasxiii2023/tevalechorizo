@@ -7,7 +7,7 @@
 <display-name lang="en">A+</display-name>
 </channel>
 
-<programme start="20241003180000 +0000" stop="20241003190000 +0000" channel="manavision.Ec">
+<programme start="20241003180000 +1200" stop="20241003190000 +1200" channel="manavision.Ec">
 <title lang="en">Programa pagado</title>
 <desc lang="en">Pruebas</desc>
 <category lang="en">ventas</category>
