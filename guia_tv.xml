@@ -38,5 +38,21 @@
 			<value>A</value>
 		</rating>
 	</programme>
+	<programme start="20241003220000 +0000" stop="20241003230000 +0000" channel="I85.46607.schedulesdirect.org">
+		<title lang="en">Hechos Meridiano</title>
+		<desc lang="en">Las noticias en vivo con reportajes de corresponsales remotos.</desc>
+		<credits>
+			<presenter>Alejandro Villalvazo</presenter>
+			<presenter>Christian Lara</presenter>
+			<presenter>Gloria Perez Pérez Jácome</presenter>
+		</credits>
+		<category lang="en">News</category>
+		<length units="seconds">3600</length>
+		<episode-num system="dd_progid">SH00897257.0000</episode-num>
+		<previously-shown start="20070115000000" />
+		<rating system="Dirección General de Radio, Televisión y Cinematografía">
+			<value>A</value>
+		</rating>
+	</programme>
 
 </tv>
