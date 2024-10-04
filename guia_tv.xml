@@ -3,32 +3,39 @@
 
 <tv>
 
-
-	<channel id="Azteca-7.mx">
-		<display-name>Azteca 7</display-name>
-		<display-name>El siete</display-name>
-		<display-name>7</display-name>
-		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/12421/s96827_ll_h15_ad.png" />
+	<channel id="I85.46607.schedulesdirect.org">
+		<display-name>AZDELAY</display-name>
+		<display-name>85 AZDELAY</display-name>
+		<display-name>85</display-name>
+		<display-name>Azteca Uno</display-name>
+		<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" width="360" height="270" />
 	</channel>
 
-	<programme start="20241003190000 +0000" stop="20241003200000 +0000" channel="Azteca-7.mx">
-		<title lang="en">Catfish: The TV Show</title>
-		<sub-title lang="en">Truth &amp; Ray&apos;Quan</sub-title>
-		<desc lang="en">L.A. fashion designer Truth is hot for his online crush Ray&apos;Quan despite the fact he&apos;s in a relationship in real life.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p16330513_e_v10_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01616968&amp;tmsId=EP016169680211</url>
-		<episode-num system="common">S07E23</episode-num>
-		<episode-num system="dd_progid">EP01616968.0211</episode-num>
-		<episode-num system="xmltv_ns">6.22.</episode-num>
-		<audio>
-			<stereo>stereo</stereo>
-		</audio>
-		<previously-shown />
+
+	<programme start="20241003210000 +0000" stop="20241003220000 +0000" channel="I85.46607.schedulesdirect.org">
+		<title lang="en">Ventaneando con Pati Chapoy</title>
+		<desc lang="en">Una cobertura sobre los sucesos de la farándula más importantes y de sus protagonistas.</desc>
+		<credits>
+			<producer>Pati Chapoy</producer>
+			<producer>Daniel Bisogno</producer>
+			<presenter>Pati Chapoy</presenter>
+			<presenter>Daniel Bisogno</presenter>
+			<presenter>Pedro Sola</presenter>
+			<presenter>Linet Puente</presenter>
+			<presenter>Mónica Castañeda</presenter>
+			<presenter>Rosario Murrieta</presenter>
+			<presenter>Ricardo Manjarrez</presenter>
+			<presenter>Jimena Pérez</presenter>
+			<presenter>Atala Sarmiento</presenter>
+			<presenter>Ricardo Casares</presenter>
+		</credits>
+		<category lang="en">News</category>
+		<length units="seconds">1800</length>
+		<episode-num system="dd_progid">SH00196372.0000</episode-num>
+		<previously-shown start="20060122000000" />
 		<subtitles type="teletext" />
-		<rating>
-			<value>TV-14</value>
+		<rating system="Dirección General de Radio, Televisión y Cinematografía">
+			<value>A</value>
 		</rating>
 	</programme>
 
