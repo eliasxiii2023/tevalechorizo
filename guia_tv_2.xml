@@ -4,7 +4,7 @@
 <display-name lang="es">A+</display-name>
 </channel>
 
-<programme start="20241004000000 -0000" stop="20241004010000 -0000" channel="manavision.Ec">
+<programme start="20241004000000 -0500" stop="20241004010000 -0500" channel="manavision.Ec">
 <title lang="es">Promo TV</title>
 <desc lang="es"> Los Simpson</desc>
 <category lang="es">venta</category>
