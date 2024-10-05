@@ -14,24 +14,24 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV-Abierta",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx" group-title="TV-Abierta",Canal 5 a
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx" group-title="TV-Abierta",Canal 5
 #http://181.78.105.146:2000/play/a038/index.m3u8
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303782
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV-Abierta",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303766
 
 #EXTINF:-1 tvg-id="EstrellaMx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV-Abierta",Las Estrellas
-#https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#http://200.59.188.3:8000/play/a02z
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281054
 
+#EXTINF:-1 tvg-id="galavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Galavision_Logo_2024.svg/1199px-Galavision_Logo_2024.svg.png?20240509204447" group-title="TV-Abierta",Galavisión
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/71860
+
 #EXTINF:-1 tvg-id="once mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV-Abierta", Canal once
-#http://181.78.105.146:2000/play/a04f/index.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="TV-Abierta", TlNovelas
-#http://181.78.105.146:8800/play/a07k
 http://181.78.105.146:2000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png" group-title="TV-Abierta", ADN 40
@@ -51,7 +51,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://191.52.214.5:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="TV-Abierta", Cine latino
-http://168.181.122.234:8000/play/a02a/index.m3u8
+#http://168.181.122.234:8000/play/a02a/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3009
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="TV-Abierta", Pluto TV cine latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -87,17 +88,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="TV-Abierta", Disney channel
-#http://181.78.23.26:45000/play/a01b
-#http://192.141.99.3:8000/play/a05o
-http://45.175.139.194:8000/play/19
+http://186.190.231.179:8000/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="TV-Abierta", Cartoon Network
-#http://181.78.67.178:1010/play/a025/index.m3u8
-http://191.52.214.5:8000/play/a031/index.m3u8
+http://186.190.231.179:8000/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="TV-Abierta", [Adult Swim]
-#http://190.60.40.37:12500/play/a00w/index.m3u8
-http://181.78.8.90:16123/play/ch75
+http://201.184.160.157:4849/play/CH155
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="TV-Abierta", Animal Planet 
 http://192.141.99.3:8000/play/a05m
@@ -112,8 +109,14 @@ http://190.14.249.39:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="TV-Abierta", National Geographic 
 http://192.141.99.3:8000/play/a05i
 
-#EXTINF:-1 tvg-logo="" group-title="TV-Abierta", Pluto TV Naturaleza
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-ecologico-1.png" group-title="TV-Abierta", Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="TV-Abierta", History
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3060
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="TV-Abierta",, History 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/40831
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285147
@@ -199,7 +202,16 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
 http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="TV-Abierta", ESPN 3 MX 
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
+http://201.184.160.157:4849/play/CH19
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="TV-Abierta", FOX Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/40839
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1024px-Fox_sports_2_logo.svg.png" group-title="TV-Abierta", FOX Sports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/40840
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="TV-Abierta", FOX Sports 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3042
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png"group-title="TV-Abierta", Claro Sports
 http://192.141.99.3:8000/play/a02a
@@ -230,8 +242,5 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8366/8366005.png" group-title="TV-Abierta", Pluto TV KDramas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="TV-Abierta", La casa de los famosos 
-http://galaxypro.online:8080/live/Cxpkjr76/V9GDAU/226246.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
