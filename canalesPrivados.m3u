@@ -115,7 +115,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="TV-Abierta", History
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3060
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="TV-Abierta",, History 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="TV-Abierta", History 2
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/40831
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="TV-Abierta", TNT Series 
